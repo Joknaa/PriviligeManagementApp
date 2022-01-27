@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="7c3f4f7d-9ce6-44db-b535-cb5e10357186" name="LDAP Mapping">
+      <data-sources db="9bb0fc00-b7f7-4186-9205-6724c6bcad04" ddl="8514666b-d8d2-4bd4-b171-bc8cf7b71096" />
+    </mapping>
+  </component>
+</project>
